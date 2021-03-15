@@ -4,7 +4,7 @@ title: weaving
 permalink: /weaving/
 ---
 
-{% for project in site.portfolio %}
+{% for project in site.weaving %}
 
 {% if project.redirect %}
 <div class="project">

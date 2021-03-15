@@ -1,7 +1,7 @@
 # Site settings
 title: jeenalee.art
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  A website dedicated to art created by Jeena Lee
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 
@@ -17,6 +17,10 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  portfolio:
+  weaving:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /weaving/:path/
+  painting:
+    output: true
+    permalink: /painting/:path/
+  
