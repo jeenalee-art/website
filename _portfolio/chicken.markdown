@@ -11,6 +11,7 @@ The idea was that the backer would choose one of the five chicken breed options,
 
 These are the woven arts that I created, thanks to the backers's support and inspirations.
 
+<br/>
 #### 1. Silkie
 mountains, multitude of layers and patterns, rust red, and dark green
 
