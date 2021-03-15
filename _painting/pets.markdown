@@ -8,26 +8,26 @@ img: /img/pets/walter.jpg
 Some watercolor paintings of my friends' pets.
 
 <br/>
-#### - Walter
+### Walter
 <img class="single" src="/img/pets/walter.jpg"/>
 
 <br/>
-#### - Cooper
+<br/>
+### Cooper
 <img class="single" src="/img/pets/cooper.jpg"/>
 
 <br/>
-#### - Matisse
+<br/>
+### Matisse
 <img class="single" src="/img/pets/matisse.jpg"/>
 
 <br/>
-#### - Sadie
+<br/>
+### Sadie
 <img class="single" src="/img/pets/sadie.jpg"/>
 
 <br/>
-#### - Sadie
-<img class="single" src="/img/pets/sadie.jpg"/>
-
 <br/>
-#### - Nameless bed bug
+### Nameless bed bug
 Lisa's "pet" bed bug
 <img class="single" src="/img/pets/bedbug.jpg"/>

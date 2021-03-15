@@ -160,7 +160,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .col { width: 100%; height: 100%; float: left; object-fit: cover; box-sizing: border-box; padding: 5px; }
 
-.single { height: 50%; width: 50%; overflow: hidden; box-sizing: border-box; padding: 5px; margin-left: auto; margin-right: auto; display: block; }
+.single { height: 50%; width: 50%; overflow: hidden; box-sizing: border-box; padding: 5px; margin-left: 0; margin-right: auto; display: block; }
 
 .right { float: right; }
 
