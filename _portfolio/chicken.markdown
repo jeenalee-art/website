@@ -9,18 +9,18 @@ I ran a [Kickstarter campaign](https://www.kickstarter.com/projects/jeenalee/chi
 
 The idea was that the backer would choose one of the five chicken breed options, and I would weave an art inspired by that chicken breed (and an additional clue if they provided one to me).
 
-These are the woven arts that I created, thanks to the backers's support and inspirations.
+These are the woven arts that I created, thanks to the backers' support and inspiration. This page is updated as I weave more.
 
 <br/>
-#### 1. Silkie
+#### - Silkie
 mountains, multitude of layers and patterns, rust red, and dark green
 
-mystern heather dark green yarn, mystern cream yarn, black eye lash yarn, Loops and Threads - Country Loom (warm cream), rust wool roving
+mystery heather dark green yarn, mystery cream yarn, black eye lash yarn, Loops and Threads - Country Loom (warm cream), wool roving (rust)
 <img class="single" src="/img/chicken/chicken-1.jpg"/>
 
-
-#### 2. Wyandotte
-Higgins, a rotund fluffy cat
+<br/>
+#### - Wyandotte
+Higgins, a round fluffy cat
 
 black eye lash yarn, Berroco - Comfort Chunky (black), Plymouth - Encore Mega (black, and cream)
 <img class="single" src="/img/chicken/chicken-2.jpg"/>
