@@ -232,7 +232,7 @@ bottom: 0;
 right: 0;
 background: rgba(0,0,0,0.4);
 color: $grey-color-light;
-padding: 12%;
+padding: 10%;
 text-align: center;
 }
 .thumbnail a:hover span {
@@ -259,6 +259,16 @@ object-fit: cover;
 box-sizing:border-box;
 padding: $img_spacing;
 }
+.single{
+    height: 50%;
+    width: 50%;
+    overflow: hidden;
+    box-sizing:border-box;
+    padding: $img_spacing;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
 .right{
 float: right;
 }
