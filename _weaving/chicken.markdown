@@ -25,3 +25,20 @@ Higgins, a round fluffy cat
 
 <img class="single" src="/img/chicken/chicken-2.jpg"/>
 ###### black eye lash yarn, Berroco - Comfort Chunky (black), Plymouth - Encore Mega (black, and cream)
+
+<br/>
+<br/>
+### Lavender Orpington
+calm thoughts
+
+<img class="single" src="/img/chicken/chicken-3.jpg"/>
+###### mystery cream yarn, Brooklyn Tweed - Shelter (Postcard)
+
+
+<br/>
+<br/>
+### Silkie
+summer evenings at a dock
+
+<img class="single" src="/img/chicken/chicken-4.jpg"/>
+###### mystery cream yarn, Loops and Threads - Country Loom (warm cream), Berroco - Comfort Chunky (golden rod), Malabrigo Rios (paris night, archangel)
