@@ -32,7 +32,7 @@ Higgins, a round fluffy cat
 calm thoughts
 
 <img class="single" src="/img/chicken/chicken-3.jpg"/>
-###### mystery cream yarn, Brooklyn Tweed - Shelter (Postcard)
+###### mystery cream yarn, Brooklyn Tweed - Shelter (postcard)
 
 
 <br/>
@@ -42,3 +42,19 @@ summer evenings at a dock
 
 <img class="single" src="/img/chicken/chicken-4.jpg"/>
 ###### mystery cream yarn, Loops and Threads - Country Loom (warm cream), Berroco - Comfort Chunky (golden rod), Malabrigo Rios (paris night, archangel)
+
+<br/>
+<br/>
+### Lavender Orpington
+
+<img class="single" src="/img/chicken/chicken-5.jpg"/>
+###### Brooklyn Tweed - Shelter (postcard), Plymouth - Encore Mega (ash grey), Rowan - Big Wool (prize), Berroco Ultra Wool Chunky (snow), mystery mohair (cream)
+
+
+<br/>
+<br/>
+### Silkie
+embroidery 
+
+<img class="single" src="/img/chicken/chicken-6.jpg"/>
+###### Berroco - Vintage Chunky (dove), Malabrigo Rios (paris night), Berroco - Comfort Chunky (golden rod), Blue Sky Fibers - Techno (fame)
