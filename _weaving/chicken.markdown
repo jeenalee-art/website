@@ -59,3 +59,11 @@ embroidery
 
 <img class="single" src="/img/chicken/chicken-6.jpg"/>
 ###### Berroco - Vintage Chunky (dove), Malabrigo Rios (paris night), Berroco - Comfort Chunky (golden rod), Blue Sky Fibers - Techno (fame)
+
+
+<br/>
+<br/>
+### Lavender Orpington 
+
+<img class="single" src="/img/chicken/chicken-7.jpg"/>
+###### Berroco Ultra Wool Chunky (snow), Malabrigo Rios (pearl)
