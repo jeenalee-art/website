@@ -67,3 +67,11 @@ embroidery
 
 <img class="single" src="/img/chicken/chicken-7.jpg"/>
 ###### Berroco Ultra Wool Chunky (snow), Malabrigo Rios (pearl)
+
+
+<br/>
+<br/>
+### Lavender Orpington 
+
+<img class="single" src="/img/chicken/chicken-8.jpg"/>
+###### Plymouth - Encore Mega (ash grey), Rowan - Big Wool (prize), Malabrigo Rios (pearl), mystery purple yarn, Loops and Threads - Country Loom (warm cream)
