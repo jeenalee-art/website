@@ -75,3 +75,12 @@ embroidery
 
 <img class="single" src="/img/chicken/chicken-8.jpg"/>
 ###### Plymouth - Encore Mega (ash grey), Rowan - Big Wool (prize), Malabrigo Rios (pearl), mystery purple yarn, Loops and Threads - Country Loom (warm cream)
+
+
+<br/>
+<br/>
+### Wyandotte
+soft triangles
+
+<img class="single" src="/img/chicken/chicken-9.jpg"/>
+###### Berroco Ultra Wool Chunky (cast iron), Blue Sky Fibers - Techno (fame)
