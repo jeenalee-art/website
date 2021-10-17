@@ -84,3 +84,29 @@ soft triangles
 
 <img class="single" src="/img/chicken/chicken-9.jpg"/>
 ###### Berroco Ultra Wool Chunky (cast iron), Blue Sky Fibers - Techno (fame)
+
+
+<br/>
+<br/>
+### Barbu d'Uccle
+red clay of Kauai
+
+<img class="single" src="/img/chicken/chicken-10.jpg"/>
+###### Malabrigo Rios (paris night, mud), Berroco Ultra Wool Chunky (cast iron, snow)
+
+
+<br/>
+<br/>
+### Silkie
+
+<img class="single" src="/img/chicken/chicken-11.jpg"/>
+###### Berroco Ultra Wool Chunky (cast iron, snow)
+
+
+<br/>
+<br/>
+### Wyandotte
+
+<img class="single" src="/img/chicken/chicken-12.jpg"/>
+###### Berroco Ultra Wool Chunky (cast iron, snow)
+
