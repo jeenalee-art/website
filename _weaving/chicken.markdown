@@ -89,7 +89,7 @@ soft triangles
 <br/>
 <br/>
 ### Barbu d'Uccle
-red clay of Kauai
+red clay of Kauai and the ocean
 
 <img class="single" src="/img/chicken/chicken-10.jpg"/>
 ###### Malabrigo Rios (paris night, mud), Berroco Ultra Wool Chunky (cast iron, snow)
